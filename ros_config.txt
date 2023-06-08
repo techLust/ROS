@@ -1,0 +1,10 @@
+                                                             ROBOTIC OPERATING SYSTEM
+                                                        ________________________________________
+
+YouTube tutorial:  link:  https://www.youtube.com/playlist?list=PLAjUtIp46jDdv1U7I0tJlJTmjnYcczJSNw                                                    
+
+>> Build packages
+    Go root directory and run "catkin_make" command
+
+>> To run ROS node
+    rosrun <package_name> <node_name>

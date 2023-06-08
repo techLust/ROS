@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/anonymous/workdir/experiment/ros-docker/install/setup.sh
